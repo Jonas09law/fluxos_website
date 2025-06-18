@@ -1,0 +1,256 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpcBO5Xk.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpcBO5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyosBO5Xk.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyosBO5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyXsosBO5Xk.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyXsosBO5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64f8N1X5pKQ.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64f8N1X5pKQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgK1X5pKQ.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgK1X5pKQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64UYK1X5pKQ.ttf
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64UYK1X5pKQ.ttf
+Content Type: font/ttf
+
+Uri: https://www.mtaportugal.pt/
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\index.htm
+Content Type: text/html
+
+Uri: https://www.mtaportugal.pt/Comunidade.css
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\Comunidade.css
+Content Type: text/css
+
+Uri: https://www.mtaportugal.pt/images/14.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\14.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/23.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\23.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/32.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\32.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/Artwork_de_Ray_Boccino.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\Artwork_de_Ray_Boccino.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/ce.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\ce.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/DesignohneTitel1.svg
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\DesignohneTitel1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.mtaportugal.pt/images/DesignohneTitel2.svg
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\DesignohneTitel2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.mtaportugal.pt/images/DesignohneTitel3.svg
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\DesignohneTitel3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.mtaportugal.pt/images/DesignohneTitel4.svg
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\DesignohneTitel4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.mtaportugal.pt/images/DesignohneTitel40.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\DesignohneTitel40.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/DesignohneTitel41.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\DesignohneTitel41.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/DesignohneTitel42.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\DesignohneTitel42.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/DesignohneTitel45.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\DesignohneTitel45.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/details-1-iphone.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\details-1-iphone.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/favicon.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/Lighting8.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\Lighting8.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/logo33.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\logo33.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/pa.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\pa.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/pngkey.com-gta-5-online-logo-1899415.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\pngkey.com-gta-5-online-logo-1899415.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/sp.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\sp.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/TheDimitri.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\TheDimitri.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/toppng.com-ta-free-download-transparent-ron-gta-v-564x1142.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\toppng.com-ta-free-download-transparent-ron-gta-v-564x1142.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/tr.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\tr.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/images/WIEwerdeichgewhitelisted.png
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\images\WIEwerdeichgewhitelisted.png
+Content Type: image/png
+
+Uri: https://www.mtaportugal.pt/index.html
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\index.html
+Content Type: text/html
+
+Uri: https://www.mtaportugal.pt/jquery.js
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.mtaportugal.pt/nicepage.css
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\nicepage.css
+Content Type: text/css
+
+Uri: https://www.mtaportugal.pt/nicepage.js
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\nicepage.js
+Content Type: application/javascript
+
+Uri: https://www.mtaportugal.pt/termos.css
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\termos.css
+Content Type: text/css
+
+Uri: https://www.mtaportugal.pt/embreve.html
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\embreve.html
+Content Type: text/html
+
+Uri: https://www.mtaportugal.pt/tutorial.css
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\tutorial.css
+Content Type: text/css
+
+Uri: https://www.mtaportugal.pt/embreve.html
+File Name: C:\Users\lawjo\OneDrive\Ambiente de Trabalho\Projetos\www.mtaportugal.pt\embreve.html
+Content Type: text/html
+
